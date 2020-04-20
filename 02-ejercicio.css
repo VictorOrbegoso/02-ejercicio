@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+nav{
+    background-color: #FEFEDC;
+    height: 5vh;
+
+}
+header {
+    background-color: #FEDCFE;
+    height: 25vh;
+
+}
+.aside-1{
+    
+    width: 20%;
+    background-color: #FEDDDC;
+    height: 25vh;
+}
+
+.menu{
+    background-color: #DCFEFE;
+    height: 65vh;
+    width: 80%;
+    float: right;
+
+}  
+.aside-2{
+    
+    width: 20%;
+    background-color: #DCFEDD;
+    height: 20vh;
+
+}
+.aside-3{
+    
+    width: 20%;
+    background-color: #DCDCFE;
+    height: 20vh;
+}
+footer{
+    background-color: #DDDCDC ;
+    height: 5vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
